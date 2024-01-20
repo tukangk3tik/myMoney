@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMoney</string>
+
+    <string name="net_income">Pemasukan</string>
+
+    <string name="main_balance_message">Contoh pesan balance utama</string>
+</resources>

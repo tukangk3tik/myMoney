@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMoney</string>
+
+    <string name="net_income">Net Income</string>
+
+    <string name="main_balance_message">You save 30% for this month</string>
+</resources>
